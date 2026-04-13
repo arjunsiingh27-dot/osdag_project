@@ -1,3 +1,4 @@
-# Welcome to your Lovable project
+# osdag_project
 
-TODO: Document your project here
+Welcome to the Girderflow Dynamics / Lovable project.
+TODO: Document your project here.
