@@ -42,3 +42,6 @@ firebase-debug.*.log
 *.key
 credentials.json
 client_secret.json
+
+.firebaserc
+firebase.json
